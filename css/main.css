@@ -1,5 +1,6 @@
 .chapter-header, .image-container {
     text-align: center;
+    background-color: white;
 }
 
 .span-bold {
@@ -21,4 +22,42 @@
 .section {
     margin-top: 40px;
     margin-bottom: 10px;
+}
+
+.chapter-header-decoration {
+    display: inline-block;
+}
+
+.span-chapter-header-decoration {
+    padding: 4px;
+    background-color: white;
+}
+
+.div-chapter-header-bkg {
+    text-align: center;
+}
+
+.span-chapter1-header-bkg {
+    padding: 10px;
+    background-color: blue;
+}
+
+.span-chapter2-header-bkg {
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+
+.span-chapter3-header-bkg {
+    padding: 10px;
+    background-color: forestgreen;
+}
+
+.span-chapter4-header-bkg {
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.span-chapter5-header-bkg {
+    padding: 10px;
+    background-color: brown;
 }
