@@ -1,6 +1,10 @@
-.chapter-header, .image-container {
+.body {
+    background-color: #eeeeee;
+}
+
+.image-container {
     text-align: center;
-    background-color: white;
+    background-color: #eeeeee;
 }
 
 .span-bold {
