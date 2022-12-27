@@ -1,3 +1,19 @@
 .chapter-header, .image-container {
     text-align: center;
 }
+
+.span-bold {
+    font-weight: bold;
+}
+
+.span-italic {
+    font-style: italic;
+}
+
+.span-underlined {
+    text-decoration: underline;
+}
+
+.span-striked {
+    text-decoration: line-through;
+}
